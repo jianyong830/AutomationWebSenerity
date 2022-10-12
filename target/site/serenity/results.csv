@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Acc page test","Acc page logo test","ERROR","2022-10-06T14:51:50.416+08:00[Asia/Singapore]","0.0","40.01"
+"Acc page test","Initialisation","ERROR","2022-10-06T14:52:41.043+08:00[Asia/Singapore]","0.0","0.0"
+"Contact us test","Fill contact us page test","ERROR","2022-10-06T14:52:43.153+08:00[Asia/Singapore]","0.0","4.52"
+"Login page test","App login tests","ERROR","2022-10-06T14:52:48.299+08:00[Asia/Singapore]","0.0","5.46"
+"When login on","User can log on via home page","SUCCESS","2022-10-06T14:52:54.499+08:00[Asia/Singapore]","0.0","2.63"

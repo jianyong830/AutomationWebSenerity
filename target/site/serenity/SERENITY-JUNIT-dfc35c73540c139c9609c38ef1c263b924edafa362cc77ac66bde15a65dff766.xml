@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="WaitingForElement.WhenWaitingForElements" skipped="0" tests="1" time="5.67" timestamp="2022-10-09 09:08:04"><testcase classname="WaitingForElement.WhenWaitingForElements" name="Waiting for a modal dialog"><failure message="Element should be visible" type="java.lang.AssertionError">Element should be visible</failure><system-err>Element should be visible&#13;
+WaitingForElement.WhenWaitingForElements.waitingForAModalDialog(WhenWaitingForElements.java:25)&#13;
+</system-err></testcase></testsuite>
